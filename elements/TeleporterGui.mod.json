@@ -1,0 +1,78 @@
+{
+  "_fv": 3,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 400,
+    "height": 332,
+    "renderBgLayer": true,
+    "containerBlock": "Teleporter",
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "ID: ",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "ID: ",
+          "x": 258,
+          "y": 96
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "TeleporterID",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "TeleporterID",
+          "x": 300,
+          "y": 96
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Set Destination",
+          "width": 288,
+          "height": 40,
+          "onClick": {
+            "name": "TeleporterGuiFinish"
+          },
+          "name": "Set Destination",
+          "x": 282,
+          "y": 204
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Destination:",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Destination:",
+          "x": 244,
+          "y": 135
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "width": 240,
+          "height": 40,
+          "placeholder": "0",
+          "name": "Destination",
+          "x": 368,
+          "y": 124
+        }
+      }
+    ],
+    "inventories": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "new_mod_test:blocks/black",
+    "up": "new_mod_test:blocks/black",
+    "north": "new_mod_test:blocks/teleporter_side",
+    "east": "new_mod_test:blocks/teleporter_side",
+    "south": "new_mod_test:blocks/teleporter_side",
+    "west": "new_mod_test:blocks/teleporter_side",
+    "particle": "new_mod_test:blocks/black"
+  }
+}

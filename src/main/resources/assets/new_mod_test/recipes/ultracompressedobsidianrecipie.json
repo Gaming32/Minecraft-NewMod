@@ -1,0 +1,26 @@
+{
+  "group": "new_mod_test",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "new_mod_test:compressed_obsidian"
+    },
+    "1": {
+      "item": "new_mod_test:compressed_obsidian"
+    },
+    "2": {
+      "item": "new_mod_test:compressed_obsidian"
+    },
+    "3": {
+      "item": "new_mod_test:compressed_obsidian"
+    }
+  },
+  "result": {
+    "item": "new_mod_test:ultracompressedobsidian",
+    "count": 1
+  }
+}

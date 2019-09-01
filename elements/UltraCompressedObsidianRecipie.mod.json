@@ -1,0 +1,48 @@
+{
+  "_fv": 3,
+  "_type": "recipe",
+  "definition": {
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:UltraCompressedObsidian"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CompressedObsidian"
+      },
+      {
+        "value": "CUSTOM:CompressedObsidian"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CompressedObsidian"
+      },
+      {
+        "value": "CUSTOM:CompressedObsidian"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingInputStack": {
+      "value": ""
+    },
+    "smeltingReturnStack": {
+      "value": ""
+    },
+    "smeltingXPReward": 1.0,
+    "smeltingRetstackSize": 1
+  }
+}

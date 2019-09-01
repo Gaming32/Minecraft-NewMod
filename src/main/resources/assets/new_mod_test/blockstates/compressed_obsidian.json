@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "new_mod_test:compressed_obsidian"
+    }
+  }
+}

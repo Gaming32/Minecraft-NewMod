@@ -1,0 +1,42 @@
+{
+  "group": "new_mod_test",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "new_mod_test:compressed_obsidian"
+    },
+    "1": {
+      "item": "new_mod_test:compressed_obsidian"
+    },
+    "2": {
+      "item": "new_mod_test:compressed_obsidian"
+    },
+    "3": {
+      "item": "new_mod_test:compressed_obsidian"
+    },
+    "4": {
+      "item": "new_mod_test:compressed_obsidian"
+    },
+    "5": {
+      "item": "new_mod_test:compressed_obsidian"
+    },
+    "6": {
+      "item": "new_mod_test:compressed_obsidian"
+    },
+    "7": {
+      "item": "new_mod_test:compressed_obsidian"
+    },
+    "8": {
+      "item": "new_mod_test:compressed_obsidian"
+    }
+  },
+  "result": {
+    "item": "minecraft:bedrock",
+    "count": 1
+  }
+}

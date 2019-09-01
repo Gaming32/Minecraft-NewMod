@@ -1,0 +1,72 @@
+{
+  "_fv": 3,
+  "_type": "biome",
+  "definition": {
+    "name": "Test",
+    "groundBlock": {
+      "value": "Blocks.ICE"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.PACKED_ICE"
+    },
+    "generateLakes": true,
+    "treeType": 0,
+    "vanillaTreeType": "Mega spruce trees",
+    "treeStructure": "(no schematic)",
+    "minHeight": 7,
+    "spawnVines": false,
+    "treeVines": {
+      "value": ""
+    },
+    "treeStem": {
+      "value": ""
+    },
+    "treeBranch": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "customColors": true,
+    "airColor": {
+      "value": -5916161,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -13261999,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -14329397,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 3,
+    "grassPerChunk": 10,
+    "flowersPerChunk": 10,
+    "mushroomsPerChunk": 1,
+    "bigMushroomsChunk": 1,
+    "sandPathcesPerChunk": 1,
+    "gravelPatchesPerChunk": 1,
+    "reedsPerChunk": 1,
+    "cactiPerChunk": 1,
+    "deadBushesPerChunk": 1,
+    "rainingPossibility": 0.5,
+    "temperature": 0.5,
+    "baseHeight": 0.1,
+    "heightVariation": 1.0,
+    "spawnBiome": true,
+    "spawnVillagesInBiome": false,
+    "spawnStrongholdsInBiome": false,
+    "biomeWeight": 10,
+    "biomeType": "ICY",
+    "entityListSpawnType": 2,
+    "spawnList": [
+      {
+        "value": "EntityDragon"
+      },
+      {
+        "value": "EntityWither"
+      }
+    ]
+  }
+}

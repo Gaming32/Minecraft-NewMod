@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "new_mod_test:blocks/compressed_obsidian",
+    "up": "new_mod_test:blocks/compressed_obsidian",
+    "north": "new_mod_test:blocks/compressed_obsidian",
+    "east": "new_mod_test:blocks/compressed_obsidian",
+    "south": "new_mod_test:blocks/compressed_obsidian",
+    "west": "new_mod_test:blocks/compressed_obsidian",
+    "particle": "new_mod_test:blocks/compressed_obsidian"
+  }
+}

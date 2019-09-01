@@ -1,0 +1,72 @@
+Symbol range map extraction starting
+Processing 18 files
+startProcessing "net\mcreator\new_mod_test\ClientProxynew_mod_test.java" md5: da2b7676d070d0c8e685439e6cd4f175
+Cache Hit!
+endProcessing "net\mcreator\new_mod_test\ClientProxynew_mod_test.java"
+
+startProcessing "net\mcreator\new_mod_test\CommonProxynew_mod_test.java" md5: c8919ccd04e636bb49a0c4010329144b
+Cache Hit!
+endProcessing "net\mcreator\new_mod_test\CommonProxynew_mod_test.java"
+
+startProcessing "net\mcreator\new_mod_test\MCreatorAir.java" md5: ecbbeef78920d5be4bb52955ca58c5e7
+Cache Hit!
+endProcessing "net\mcreator\new_mod_test\MCreatorAir.java"
+
+startProcessing "net\mcreator\new_mod_test\MCreatorBarrier.java" md5: d78e972c887a77e099c305317dc64839
+Cache Hit!
+endProcessing "net\mcreator\new_mod_test\MCreatorBarrier.java"
+
+startProcessing "net\mcreator\new_mod_test\MCreatorBedrock.java" md5: 727fdee2d4bdfcd671f86449ba25e8c2
+Cache Hit!
+endProcessing "net\mcreator\new_mod_test\MCreatorBedrock.java"
+
+startProcessing "net\mcreator\new_mod_test\MCreatorCommandBlock.java" md5: f4b3ae74ac29d4e90b8d164b613d84ea
+Cache Hit!
+endProcessing "net\mcreator\new_mod_test\MCreatorCommandBlock.java"
+
+startProcessing "net\mcreator\new_mod_test\MCreatorCompressedObsidian.java" md5: 18c0ee70b0a7badb84f92984ed15fb04
+Cache Hit!
+endProcessing "net\mcreator\new_mod_test\MCreatorCompressedObsidian.java"
+
+startProcessing "net\mcreator\new_mod_test\MCreatorCompressedObsidianRecipie.java" md5: dce1ff65b8ca10cda84e9ccc4fa9e506
+Cache Hit!
+endProcessing "net\mcreator\new_mod_test\MCreatorCompressedObsidianRecipie.java"
+
+startProcessing "net\mcreator\new_mod_test\MCreatorNewMod.java" md5: 521f1ab9b2cb46e90c14f84a24d21606
+Cache Hit!
+endProcessing "net\mcreator\new_mod_test\MCreatorNewMod.java"
+
+startProcessing "net\mcreator\new_mod_test\MCreatorTeleporter.java" md5: c075b47864c52262ca9ba10062899f74
+Cache Hit!
+endProcessing "net\mcreator\new_mod_test\MCreatorTeleporter.java"
+
+startProcessing "net\mcreator\new_mod_test\MCreatorTeleporterGui.java" md5: 3a303aaff739a513419a15f1c66b9a66
+Cache Hit!
+endProcessing "net\mcreator\new_mod_test\MCreatorTeleporterGui.java"
+
+startProcessing "net\mcreator\new_mod_test\MCreatorTeleporterGuiFinish.java" md5: 4ca182e302996cc272550a0dfd64ccd9
+Cache Hit!
+endProcessing "net\mcreator\new_mod_test\MCreatorTeleporterGuiFinish.java"
+
+startProcessing "net\mcreator\new_mod_test\MCreatorTeleporterRecipie.java" md5: 2a520a2baab41fc894989f4ef6cf9604
+Cache Hit!
+endProcessing "net\mcreator\new_mod_test\MCreatorTeleporterRecipie.java"
+
+startProcessing "net\mcreator\new_mod_test\MCreatorTest.java" md5: 6b73aea23c9cb85d9b7af5fa56c8f8dc
+endProcessing "net\mcreator\new_mod_test\MCreatorTest.java"
+
+startProcessing "net\mcreator\new_mod_test\MCreatorUltraCompressedObsidian.java" md5: 190b50f0e60e7924efe4f7b3ef12f960
+Cache Hit!
+endProcessing "net\mcreator\new_mod_test\MCreatorUltraCompressedObsidian.java"
+
+startProcessing "net\mcreator\new_mod_test\MCreatorUltraCompressedObsidianRecipie.java" md5: 9c4c86055b2c8cba672e992d31d7b697
+Cache Hit!
+endProcessing "net\mcreator\new_mod_test\MCreatorUltraCompressedObsidianRecipie.java"
+
+startProcessing "net\mcreator\new_mod_test\new_mod_test.java" md5: 507ce3c5e3aa031714586fc2b1591684
+endProcessing "net\mcreator\new_mod_test\new_mod_test.java"
+
+startProcessing "net\mcreator\new_mod_test\new_mod_testVariables.java" md5: c732a0aadd938d37fa6374a9e375e859
+Cache Hit!
+endProcessing "net\mcreator\new_mod_test\new_mod_testVariables.java"
+
