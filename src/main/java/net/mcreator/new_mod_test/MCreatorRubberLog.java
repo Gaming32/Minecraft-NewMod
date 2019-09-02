@@ -24,7 +24,7 @@ import net.minecraft.block.Block;
 
 public class MCreatorRubberLog extends new_mod_test.ModElement {
 
-	@GameRegistry.ObjectHolder("new_mod_test:rubberlog")
+	@GameRegistry.ObjectHolder("new_mod_test:rubber_log")
 	public static final Block block = null;
 
 	public MCreatorRubberLog(new_mod_test instance) {
@@ -36,7 +36,8 @@ public class MCreatorRubberLog extends new_mod_test.ModElement {
 	@SideOnly(Side.CLIENT)
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
-		ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(block), 0, new ModelResourceLocation("new_mod_test:rubberlog", "inventory"));
+		ModelLoader
+				.setCustomModelResourceLocation(Item.getItemFromBlock(block), 0, new ModelResourceLocation("new_mod_test:rubber_log", "inventory"));
 	}
 
 	public static class BlockCustom extends Block {
@@ -45,8 +46,8 @@ public class MCreatorRubberLog extends new_mod_test.ModElement {
 
 		public BlockCustom() {
 			super(Material.WOOD);
-			setRegistryName("rubberlog");
-			setUnlocalizedName("rubberlog");
+			setRegistryName("rubber_log");
+			setUnlocalizedName("rubber_log");
 			setSoundType(SoundType.WOOD);
 			setHarvestLevel("axe", 1);
 			setHardness(2F);

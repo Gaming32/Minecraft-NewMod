@@ -20,7 +20,7 @@ import net.minecraft.block.Block;
 
 public class MCreatorRubberSapling extends new_mod_test.ModElement {
 
-	@GameRegistry.ObjectHolder("new_mod_test:rubbersapling")
+	@GameRegistry.ObjectHolder("new_mod_test:rubber_sapling")
 	public static final Block block = null;
 
 	public MCreatorRubberSapling(new_mod_test instance) {
@@ -32,7 +32,7 @@ public class MCreatorRubberSapling extends new_mod_test.ModElement {
 	@SideOnly(Side.CLIENT)
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
-		ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(block), 0, new ModelResourceLocation("new_mod_test:rubbersapling",
+		ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(block), 0, new ModelResourceLocation("new_mod_test:rubber_sapling",
 				"inventory"));
 	}
 
@@ -40,8 +40,8 @@ public class MCreatorRubberSapling extends new_mod_test.ModElement {
 
 		public BlockCustom() {
 			super(Material.PLANTS);
-			setRegistryName("rubbersapling");
-			setUnlocalizedName("rubbersapling");
+			setRegistryName("rubber_sapling");
+			setUnlocalizedName("rubber_sapling");
 			setSoundType(SoundType.PLANT);
 			setHarvestLevel("pickaxe", -1);
 			setHardness(0F);

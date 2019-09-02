@@ -36,18 +36,17 @@ startProcessing "net\mcreator\new_mod_test\MCreatorNewMod.java" md5: 521f1ab9b2c
 Cache Hit!
 endProcessing "net\mcreator\new_mod_test\MCreatorNewMod.java"
 
-startProcessing "net\mcreator\new_mod_test\MCreatorRubberLeaves.java" md5: 1ac739333a6e4c34d05bc7e1ed9719fe
+startProcessing "net\mcreator\new_mod_test\MCreatorRubberLeaves.java" md5: f0dfc0819f0fd915140f3f42a47d8ef8
 endProcessing "net\mcreator\new_mod_test\MCreatorRubberLeaves.java"
 
 startProcessing "net\mcreator\new_mod_test\MCreatorRubberLeavesDestroyed.java" md5: 3660801336b0d3b34938b3124b784038
+Cache Hit!
 endProcessing "net\mcreator\new_mod_test\MCreatorRubberLeavesDestroyed.java"
 
-startProcessing "net\mcreator\new_mod_test\MCreatorRubberLog.java" md5: a223b1a329651e2be8e66a01f938c902
-Cache Hit!
+startProcessing "net\mcreator\new_mod_test\MCreatorRubberLog.java" md5: ba466b13074019f5d5a3a53681beaa65
 endProcessing "net\mcreator\new_mod_test\MCreatorRubberLog.java"
 
-startProcessing "net\mcreator\new_mod_test\MCreatorRubberSapling.java" md5: 10e2d5492f3548bf0dc31716d68204fe
-Cache Hit!
+startProcessing "net\mcreator\new_mod_test\MCreatorRubberSapling.java" md5: e8fd79c57b4819f26b06a25c1131303e
 endProcessing "net\mcreator\new_mod_test\MCreatorRubberSapling.java"
 
 startProcessing "net\mcreator\new_mod_test\MCreatorTeleporter.java" md5: c075b47864c52262ca9ba10062899f74
@@ -79,6 +78,7 @@ Cache Hit!
 endProcessing "net\mcreator\new_mod_test\MCreatorUltraCompressedObsidianRecipie.java"
 
 startProcessing "net\mcreator\new_mod_test\new_mod_test.java" md5: dc6d28bebfb78b61f3bb26ebafa6955f
+Cache Hit!
 endProcessing "net\mcreator\new_mod_test\new_mod_test.java"
 
 startProcessing "net\mcreator\new_mod_test\new_mod_testVariables.java" md5: c732a0aadd938d37fa6374a9e375e859

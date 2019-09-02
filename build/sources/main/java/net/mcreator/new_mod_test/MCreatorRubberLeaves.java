@@ -23,7 +23,7 @@ import java.util.HashMap;
 
 public class MCreatorRubberLeaves extends new_mod_test.ModElement {
 
-	@GameRegistry.ObjectHolder("new_mod_test:rubberleaves")
+	@GameRegistry.ObjectHolder("new_mod_test:rubber_leaves")
 	public static final Block block = null;
 
 	public MCreatorRubberLeaves(new_mod_test instance) {
@@ -35,7 +35,7 @@ public class MCreatorRubberLeaves extends new_mod_test.ModElement {
 	@SideOnly(Side.CLIENT)
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
-		ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(block), 0, new ModelResourceLocation("new_mod_test:rubberleaves",
+		ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(block), 0, new ModelResourceLocation("new_mod_test:rubber_leaves",
 				"inventory"));
 	}
 
@@ -43,8 +43,8 @@ public class MCreatorRubberLeaves extends new_mod_test.ModElement {
 
 		public BlockCustom() {
 			super(Material.LEAVES);
-			setRegistryName("rubberleaves");
-			setUnlocalizedName("rubberleaves");
+			setRegistryName("rubber_leaves");
+			setUnlocalizedName("rubber_leaves");
 			setSoundType(SoundType.PLANT);
 			setHarvestLevel("pickaxe", 1);
 			setHardness(0.2F);

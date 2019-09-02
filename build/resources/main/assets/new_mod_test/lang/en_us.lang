@@ -1,7 +1,7 @@
-tile.rubberlog.name=Rubber Log
-tile.rubberleaves.name=Rubber Leaves
 tile.compressed_obsidian.name=Compressed Obsidian
-tile.rubbersapling.name=Rubber Sapling
 tile.teleporter.name=Teleporter Block
+tile.rubber_log.name=Rubber Log
 itemGroup.tabnewmod=NewMod Items
+tile.rubber_leaves.name=Rubber Leaves
 tile.ultra_compressed_obsidian.name=Ultra Compressed Obsidian
+tile.rubber_sapling.name=Rubber Sapling
