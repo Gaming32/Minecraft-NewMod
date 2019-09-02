@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "new_mod_test:rubberlog"
+    },
+    "facing=south": {
+      "model": "new_mod_test:rubberlog"
+    },
+    "facing=north": {
+      "model": "new_mod_test:rubberlog"
+    },
+    "facing=east": {
+      "model": "new_mod_test:rubberlog",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "new_mod_test:rubberlog",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "new_mod_test:rubberlog",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "new_mod_test:rubberlog",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

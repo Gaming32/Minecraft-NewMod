@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "new_mod_test:blocks/rubber_sapling",
+    "particle": "new_mod_test:blocks/rubber_sapling"
+  }
+}

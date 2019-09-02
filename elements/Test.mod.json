@@ -2,7 +2,7 @@
   "_fv": 3,
   "_type": "biome",
   "definition": {
-    "name": "Test",
+    "name": "Crazy",
     "groundBlock": {
       "value": "Blocks.ICE"
     },
@@ -11,7 +11,7 @@
     },
     "generateLakes": true,
     "treeType": 0,
-    "vanillaTreeType": "Mega spruce trees",
+    "vanillaTreeType": "Mega pine trees",
     "treeStructure": "(no schematic)",
     "minHeight": 7,
     "spawnVines": false,
@@ -40,9 +40,9 @@
       "value": -14329397,
       "falpha": 0.0
     },
-    "treesPerChunk": 3,
-    "grassPerChunk": 10,
-    "flowersPerChunk": 10,
+    "treesPerChunk": 1,
+    "grassPerChunk": 1,
+    "flowersPerChunk": 1,
     "mushroomsPerChunk": 1,
     "bigMushroomsChunk": 1,
     "sandPathcesPerChunk": 1,
@@ -57,7 +57,7 @@
     "spawnBiome": true,
     "spawnVillagesInBiome": false,
     "spawnStrongholdsInBiome": false,
-    "biomeWeight": 10,
+    "biomeWeight": 1,
     "biomeType": "ICY",
     "entityListSpawnType": 2,
     "spawnList": [

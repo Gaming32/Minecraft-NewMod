@@ -68,6 +68,10 @@ public class new_mod_test implements IFuelHandler, IWorldGenerator {
 		elements.add(new MCreatorBarrier(this));
 		elements.add(new MCreatorCommandBlock(this));
 		elements.add(new MCreatorTest(this));
+		elements.add(new MCreatorRubberLog(this));
+		elements.add(new MCreatorRubberLeaves(this));
+		elements.add(new MCreatorRubberSapling(this));
+		elements.add(new MCreatorRubberLeavesDestroyed(this));
 	}
 
 	@Override

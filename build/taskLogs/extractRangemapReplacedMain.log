@@ -1,5 +1,5 @@
 Symbol range map extraction starting
-Processing 18 files
+Processing 22 files
 startProcessing "net\mcreator\new_mod_test\ClientProxynew_mod_test.java" md5: da2b7676d070d0c8e685439e6cd4f175
 Cache Hit!
 endProcessing "net\mcreator\new_mod_test\ClientProxynew_mod_test.java"
@@ -36,6 +36,20 @@ startProcessing "net\mcreator\new_mod_test\MCreatorNewMod.java" md5: 521f1ab9b2c
 Cache Hit!
 endProcessing "net\mcreator\new_mod_test\MCreatorNewMod.java"
 
+startProcessing "net\mcreator\new_mod_test\MCreatorRubberLeaves.java" md5: 1ac739333a6e4c34d05bc7e1ed9719fe
+endProcessing "net\mcreator\new_mod_test\MCreatorRubberLeaves.java"
+
+startProcessing "net\mcreator\new_mod_test\MCreatorRubberLeavesDestroyed.java" md5: 3660801336b0d3b34938b3124b784038
+endProcessing "net\mcreator\new_mod_test\MCreatorRubberLeavesDestroyed.java"
+
+startProcessing "net\mcreator\new_mod_test\MCreatorRubberLog.java" md5: a223b1a329651e2be8e66a01f938c902
+Cache Hit!
+endProcessing "net\mcreator\new_mod_test\MCreatorRubberLog.java"
+
+startProcessing "net\mcreator\new_mod_test\MCreatorRubberSapling.java" md5: 10e2d5492f3548bf0dc31716d68204fe
+Cache Hit!
+endProcessing "net\mcreator\new_mod_test\MCreatorRubberSapling.java"
+
 startProcessing "net\mcreator\new_mod_test\MCreatorTeleporter.java" md5: c075b47864c52262ca9ba10062899f74
 Cache Hit!
 endProcessing "net\mcreator\new_mod_test\MCreatorTeleporter.java"
@@ -52,7 +66,8 @@ startProcessing "net\mcreator\new_mod_test\MCreatorTeleporterRecipie.java" md5: 
 Cache Hit!
 endProcessing "net\mcreator\new_mod_test\MCreatorTeleporterRecipie.java"
 
-startProcessing "net\mcreator\new_mod_test\MCreatorTest.java" md5: 6b73aea23c9cb85d9b7af5fa56c8f8dc
+startProcessing "net\mcreator\new_mod_test\MCreatorTest.java" md5: 33d2b06f1deb2c7219436f5eb9babc93
+Cache Hit!
 endProcessing "net\mcreator\new_mod_test\MCreatorTest.java"
 
 startProcessing "net\mcreator\new_mod_test\MCreatorUltraCompressedObsidian.java" md5: 190b50f0e60e7924efe4f7b3ef12f960
@@ -63,7 +78,7 @@ startProcessing "net\mcreator\new_mod_test\MCreatorUltraCompressedObsidianRecipi
 Cache Hit!
 endProcessing "net\mcreator\new_mod_test\MCreatorUltraCompressedObsidianRecipie.java"
 
-startProcessing "net\mcreator\new_mod_test\new_mod_test.java" md5: 507ce3c5e3aa031714586fc2b1591684
+startProcessing "net\mcreator\new_mod_test\new_mod_test.java" md5: dc6d28bebfb78b61f3bb26ebafa6955f
 endProcessing "net\mcreator\new_mod_test\new_mod_test.java"
 
 startProcessing "net\mcreator\new_mod_test\new_mod_testVariables.java" md5: c732a0aadd938d37fa6374a9e375e859

@@ -31,21 +31,21 @@ public class MCreatorTest extends new_mod_test.ModElement {
 	public void init(FMLInitializationEvent event) {
 		BiomeDictionary.addTypes(biome, BiomeDictionary.Type.FOREST);
 		BiomeManager.addSpawnBiome(biome);
-		BiomeManager.addBiome(BiomeManager.BiomeType.ICY, new BiomeManager.BiomeEntry(biome, 10));
+		BiomeManager.addBiome(BiomeManager.BiomeType.ICY, new BiomeManager.BiomeEntry(biome, 1));
 	}
 
 	static class BiomeGenCustom extends Biome {
 
 		public BiomeGenCustom() {
-			super(new Biome.BiomeProperties("Test").setRainfall(0.5F).setBaseHeight(0.1F).setWaterColor(-14329397).setHeightVariation(1F)
+			super(new Biome.BiomeProperties("Crazy").setRainfall(0.5F).setBaseHeight(0.1F).setWaterColor(-14329397).setHeightVariation(1F)
 					.setTemperature(0.5F));
 			setRegistryName("test");
 			topBlock = Blocks.ICE.getDefaultState();
 			fillerBlock = Blocks.PACKED_ICE.getDefaultState();
 			decorator.generateFalls = true;
-			decorator.treesPerChunk = 3;
-			decorator.flowersPerChunk = 10;
-			decorator.grassPerChunk = 10;
+			decorator.treesPerChunk = 1;
+			decorator.flowersPerChunk = 1;
+			decorator.grassPerChunk = 1;
 			decorator.deadBushPerChunk = 1;
 			decorator.mushroomsPerChunk = 1;
 			decorator.bigMushroomsPerChunk = 1;
@@ -81,7 +81,7 @@ public class MCreatorTest extends new_mod_test.ModElement {
 
 		@Override
 		public WorldGenAbstractTree getRandomTreeFeature(Random rand) {
-			return new WorldGenMegaPineTree(false, true);
+			return new WorldGenMegaPineTree(false, false);
 		}
 	}
 }
